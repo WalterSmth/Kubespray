@@ -84,5 +84,7 @@ node3   Ready    <none>          24m   v1.26.5
 
 #### Источники
 https://proglib.io/p/pervoe-znakomstvo-s-kubernetes-ustanovka-klastera-k8s-vruchnuyu-2021-05-21
+
 https://github.com/kubernetes-sigs/kubespray/tree/master
+
 https://github.com/kubernetes-sigs/kubespray/blob/master/docs/ansible.md#installing-ansible
