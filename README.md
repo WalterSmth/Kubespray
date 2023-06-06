@@ -1,3 +1,5 @@
+![](https://www.infracloud.io/assets/img/Blog/Blog-updated-creatives/index-image-1200x628/ha-kubernetes-with-kubespray-1200x628.png)
+
 # Поднимаем kubernetes с помощью Kubespray
 
 ### Действия, выполняемые на всех серверах
