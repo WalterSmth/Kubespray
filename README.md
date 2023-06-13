@@ -58,7 +58,7 @@ pip install -U -r requirements-$ANSIBLE_VERSION.txt
 cp -rfp inventory/sample inventory/mycluster
 ```
 
-Прописываем IP-адреса наших серверов. Здесь исползуются условные IP для примера
+Прописываем IP-адреса наших серверов. Здесь используются условные IP для примера
 ```sh
 declare -a IPS=(10.10.1.3 10.10.1.4 10.10.1.5)
 CONFIG_FILE=inventory/mycluster/hosts.yaml python3 contrib/inventory_builder/inventory.py ${IPS[@]}
